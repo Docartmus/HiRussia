@@ -10,7 +10,7 @@ namespace ConsoleApplication17
     {
         static void Main(string[] args)
         {
-            1221
+            Console.WriteLine("Привет Олег");
         }
     }
 }
