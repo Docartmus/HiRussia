@@ -11,7 +11,7 @@ namespace ConsoleApplication17
         static void Main(string[] args)
         {
             Console.WriteLine("Привет Боря");
-            Console.WriteLine("Саша Пипка");
+            Console.WriteLine("Саша Пипкап");
         }
     }
 }
